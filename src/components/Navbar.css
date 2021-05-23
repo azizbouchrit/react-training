@@ -1,0 +1,16 @@
+.my-navbar{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #f0f0f0;
+  padding: 0.5rem 2rem;
+}
+
+.nav-items{
+  display: flex;
+  gap: 2rem;
+}
+
+.nav-item{
+  cursor: pointer;
+}
