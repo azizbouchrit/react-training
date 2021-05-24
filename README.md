@@ -1,6 +1,6 @@
 # React JS Training
 
-This is a beginner-friendly React js project, it's a products management plateform in which I tried to cover most fundamental concepts of react like styling, most used lifecycle methods & hooks, HTTP calls with Axios and routing using react-router-dom.
+This is a beginner-friendly React js project, it's a product management platform in which I tried to cover the most fundamental concepts of React like styling, most used lifecycle methods & hooks, HTTP calls with Axios, and routing using react-router-dom.
 
 ## Available Scripts
 
